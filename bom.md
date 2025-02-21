@@ -3,6 +3,7 @@
 [back](materiales.md)
 
 [Ajuste de eficiencia y velocidad](SOP_PTP_MDM_BOM_001.md)
+
 [Alta de receta](SOP_PTP_MDM_BOM_002.md)
 [Eliminar receta](SOP_PTP_MDM_BOM_003.md)
 [Alta de Lista de Material](SOP_PTP_MDM_BOM_004.md)
