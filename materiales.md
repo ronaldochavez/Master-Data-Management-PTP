@@ -15,8 +15,9 @@ Mat!2025Feb
 [Analyst](analyst.md)
 
 ## Diccionario
-
 Familias : Grupo de embalaje
+
 Sujeto a lote : No debe estar palomeado en CEDIS : En planta si debe traer, pero no en todos
+
 Peso neto: Densidad (densidad del producto) x volumen (500ml como ejemplo)
 
