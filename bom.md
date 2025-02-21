@@ -1,6 +1,6 @@
 # BOM
 
-[back](materiales.md)
+**[back](materiales.md)**
 
 [Ajuste de eficiencia y velocidad](SOP_PTP_MDM_BOM_001.md)
 
