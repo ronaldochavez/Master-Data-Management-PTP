@@ -11,3 +11,5 @@
 [Alta Materiales ZROD / Materia Prima Directa](SOP_PTP_MDM_ANALYST_003.md)
 
 [Amplicación producto a planta](SOP_PTP_MDM_ANALYST_004.md)
+
+[Alta SKU Nacional](SOP_PTP_MDM_ANALYST_005.md)
