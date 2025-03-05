@@ -1,5 +1,5 @@
 # BLOQUEO, BAJA Y REPLICA DE PROVEEDOR
-[back](analyst.md)
+[back](global.md)
 
 Descripción SOP:	Bloqueo, baja y réplica de proveedor 
 Frecuencia del proceso:	Diaria
