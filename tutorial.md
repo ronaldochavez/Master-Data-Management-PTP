@@ -11,10 +11,12 @@
 ![alt text](image-368.png)
 
 - En la opción de extensiones de la parte izquierda
+<br>
 ![alt text](image-369.png)
 - Buscamos "Markdown"
 - Seleccionamos el que dice "Markdown All in one" y lo instalamos.
 - Despues seleccionamos la opción de folder.
+<br>
 ![alt text](image-370.png)
   <br>
 - Damos click en file en la barra de herramientas de arriba y open folder.
