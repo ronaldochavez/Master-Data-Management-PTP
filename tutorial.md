@@ -16,18 +16,18 @@
 - Seleccionamos el que dice "Markdown All in one" y lo instalamos.
 - Despues seleccionamos la opción de folder.
 ![alt text](image-370.png)
-
+  <br>
 - Damos click en file en la barra de herramientas de arriba y open folder.
 - Seleccionamos un folder en el que queramos tener toda la info que bajemos. De preferencia que no tenga nada
 - Ya una vez en el folder, tendremos en la parte izquierda el nombre del folder y todos los contenidos. No deberíamos tener nada de momento pero agregamos un file dando clik en la siguiente opcion.
-
+<br>
 ![alt text](image-371.png)
 nos dará una linea nueva para nombrar el archivo que queramos. Lo nombran con el código del SOP como en este ejemplo y al final agregan el tipo de archivo que es (.md)
 ![alt text](image-372.png)
-
+<br>
 - Una vez ya creado el archivo tomamos este ejemplo como formato del SOP
 ![alt text](image-373.png)
-
+<br>
 - Y solo es ir copiando y pegando de acuerdo al SOP.
 
 ## Tips
