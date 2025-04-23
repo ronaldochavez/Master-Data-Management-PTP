@@ -1,7 +1,7 @@
 # Proveedores
 [Index](index.md)
 
-- HeiXS
+- **HeiXS**
 -   BECERC03
 -   Nieve122295.
 
