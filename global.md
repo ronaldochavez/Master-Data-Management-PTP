@@ -17,3 +17,17 @@
 [Plan de retención](SOP_PTP_MDM_GLOBAL_007.md)
 
 [Clase de Inspección](SOP_PTP_MDM_GLOBAL_008.md)
+
+[Alta y actualización de precios Subproductos](SOP_PTP_MDM_GLOBAL_009.md)
+
+[Asignación de datos de calidad](SOP_PTP_MDM_GLOBAL_010.md)
+
+[Actualización de estandares y variables](SOP_PTP_MDM_GLOBAL_011.md)
+
+[Asignación de lote de inspección](SOP_PTP_MDM_GLOBAL_012.md)
+
+[Palomeo de producto terminado](SOP_PTP_MDM_GLOBAL_013.md)
+
+[Creación de complemento de proveedores](SOP_PTP_MDM_GLOBAL_014.md)
+
+[Solicitudes de proveedores](SOP_PTP_MDM_GLOBAL_015.md)
