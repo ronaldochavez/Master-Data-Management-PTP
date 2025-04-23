@@ -1,4 +1,4 @@
-# GLOBAL
+# VENDORS
 
 [back](proveedores.md)
 
